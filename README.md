@@ -7,6 +7,7 @@ These are personal projects. I have used
 -Python
 
 In these projects, I have done 
+
 -Data cleaning and preparing
 -Exploratory data analysis
 -Data visualization
